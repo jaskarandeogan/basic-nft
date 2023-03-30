@@ -1,4 +1,4 @@
-# Sample Hardhat Project to create basic NFT contract and deploy on Sepolia Test Network / or any of your choice
+# Simple Hardhat Project to create basic NFT contract and deploy on Sepolia Test Network / or any of your choice
 
 This is a simple project I created to learn about NFTs and blockchain technology. The goal was to create a basic NFT using Solidity and the Ethereum network, and to explore the process of minting and trading digital assets on the blockchain.
 
