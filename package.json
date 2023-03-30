@@ -1,0 +1,28 @@
+{
+  "name": "basic-nft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaskarandeogan/basic-nft.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaskarandeogan/basic-nft/issues"
+  },
+  "homepage": "https://github.com/jaskarandeogan/basic-nft#readme",
+  "devDependencies": {
+    "hardhat": "^2.13.0"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@openzeppelin/contracts": "^4.8.2",
+    "dotenv": "^16.0.3"
+  }
+}
